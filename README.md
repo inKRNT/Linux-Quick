@@ -1,7 +1,7 @@
 # Linux-Quick
 Simple but useful addons for Linux Based operating systems 
 ## Examples
-If you code in c++ and think x86_64mingw-64-g++ is to long just to build for windows, then wg++ and wgcc is god option for you \
+If you code in c++ and think x86_64mingw-64-g++ is to long just to build for windows, then wg++ and wgcc is good option for you \
 ok what about windows? want to use these on windows well its possible I have made a few things that work like sudo and vim or emacs( both need some extra steps ) \
 or maybe you dont like running dir instead of ls? try it!
 ## install
